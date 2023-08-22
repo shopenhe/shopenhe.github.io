@@ -1,15 +1,15 @@
-# Open Souce Contributions
+# Contributions
 
 ***
 
-**Using Username `shopenhe`**:
+**Using Username *`shopenhe`***:
 
 * [shopenhe/lemon](https://github.com/shopenhe/lemon)
 * [alipay/fury#673](https://github.com/alipay/fury/issues/673)
 
 ***
 
-**Using Username `hebelala`**:
+**Using Username *`hebelala`***:
 
 * [vipshop/Saturn](https://github.com/vipshop/Saturn)
 * [apache/curator#235](https://github.com/apache/curator/pull/235)

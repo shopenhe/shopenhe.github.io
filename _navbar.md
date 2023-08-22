@@ -1,1 +1,3 @@
-![shopenhe](_media/icon.jpg ':size=40')
+* [Contributions](contributions.md)
+
+* [Contacts](contacts.md)

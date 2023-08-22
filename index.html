@@ -13,10 +13,11 @@
   <script>
     window.$docsify = {
       el: '#main',
-      repo: 'https://github.com/shopenhe/blog',
+      repo: 'https://github.com/shopenhe/shopenhe.github.io',
       loadNavbar: true,
       mergeNavbar: true,
       loadSidebar: true,
+	  subMaxLevel: 2,
       auto2top: true,
       autoHeader: true,
       notFoundPage: true,
@@ -24,11 +25,9 @@
         paths: 'auto',
         placeholder: 'Type to search',
         placeholder: {
-          '/zh-cn/': '搜索',
           '/': 'Type to search'
         },
         noData: {
-          '/zh-cn/': '找不到结果',
           '/': 'No Results'
         },
         depth: 6

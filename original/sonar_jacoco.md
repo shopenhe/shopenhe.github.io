@@ -1,6 +1,6 @@
 # Sonar Anaysis by Jacoco
 
-## Jacoco Maven:
+## Jacoco Maven
 
 https://www.jacoco.org/jacoco/trunk/doc/maven.html
 
