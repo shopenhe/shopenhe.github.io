@@ -4,7 +4,6 @@
 
 **Using Username *`shopenhe`***:
 
-* [shopenhe/lemon](https://github.com/shopenhe/lemon)
 * [alipay/fury#673](https://github.com/alipay/fury/issues/673)
 
 ***
