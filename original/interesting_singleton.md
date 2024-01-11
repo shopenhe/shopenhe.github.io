@@ -16,7 +16,7 @@
 
 [SingletonWithNoLock](_media/SingletonWithNoLock.java ':include :type=code')
 
-# 今天讨论的单例
+## 今天讨论的单例
 我是看Curator源码时发现的，就这个类[HandleHolder](https://github.com/apache/curator/blob/curator-2.0.0/curator-client/src/main/java/org/apache/curator/HandleHolder.java)。   
 借鉴它的思维，修复它的空指针问题，我的代码：
 
@@ -29,5 +29,5 @@
 <font color="red">任何东西都可被替代。爱情，往事，记忆，失望，时间……都可以被替代。但是你不能无力自拔。 </font>  
 <div style="text-align: right">----安妮宝贝《彼岸花》</div>
 
-# 来听听田小姐 :hearts:
+## 来听听田小姐 :hearts:
 [原来你是我最想留住的幸运](_media/IMG_0330.mp4 ':include')
