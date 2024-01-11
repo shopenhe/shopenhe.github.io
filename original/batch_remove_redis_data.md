@@ -1,5 +1,7 @@
 # Batch Remove Redis Data
 
+>**Tags**: Java & Redis<br>**Last Modify**: 2021/09/30 12:06
+
 ## 场景和要求
 
 * 数据量大

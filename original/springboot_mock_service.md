@@ -1,5 +1,7 @@
 # springboot在junit中如何mock某个方法
 
+>**Tags**: Java & Spring<br>**Last Modify**: 2021/09/26 14:36
+
 ## 需求场景
 
 在springboot的测试用例中，我们常常遇到某些方法需要mock，比如调用第三方服务。当服务需要配置复杂的环境，而我们只需要关心它的返回数据，这时我们往往只需简单的mock该服务即可。

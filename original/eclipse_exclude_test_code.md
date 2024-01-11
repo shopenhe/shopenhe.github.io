@@ -1,5 +1,7 @@
 # How to exclude test code on eclipse
 
+>**Tags**: Java & Eclipse<br>**Last Modify**: 2021/09/27 11:19
+
 ## Problem
 
 使用Eclipse，当我们使用springboot启动一个application时，如果在test包下也创建了service的实现类，那么可能会出现问题：运行时，使用了test包下的类。
