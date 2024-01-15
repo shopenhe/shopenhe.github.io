@@ -1,6 +1,6 @@
 # Value Plus Value
 
->**Tags**: Java<br>**Last Modify**: 2024/01/11 15:54
+>**Tags**: Java<br>**Last Modify**: 2024/01/15 20:15
 
 ## Question
 
@@ -13,7 +13,7 @@
 
 ```
 1 + '_' + 2 = 98
-1 + "_" + 2 = 1_2
+1 + "_" + 2 = "1_2"
 ```
 
 ## Thinking

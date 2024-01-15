@@ -4,7 +4,8 @@
 
 **Using Username *`shopenhe`***:
 
-* [alipay/fury#673](https://github.com/alipay/fury/issues/673)
+* [apache/incubator-fury#673](https://github.com/apache/incubator-fury/issues/673)
+* [milvus-io/milvus-sdk-java#733](https://github.com/milvus-io/milvus-sdk-java/issues/733)
 
 ***
 
