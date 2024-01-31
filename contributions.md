@@ -19,3 +19,4 @@
 * [vesoft-inc/nebula-java#344](https://github.com/vesoft-inc/nebula-java/pull/344)
 * [vesoft-inc/nebula-java#357](https://github.com/vesoft-inc/nebula-java/pull/357)
 * [spring-projects/spring-data-redis#2166](https://github.com/spring-projects/spring-data-redis/issues/2166)
+* [lettuce-core/lettuce-core#1882](https://github.com/lettuce-io/lettuce-core/issues/1882)
